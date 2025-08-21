@@ -1,0 +1,4 @@
+xvfbwrapper
+Pillow
+pygame
+PyInstaller

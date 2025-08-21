@@ -1,0 +1,2 @@
+('C:\\Users\\adsie\\OneDrive\\Documents\\anatomy-project\\dist\\build\\main\\PYZ-00.pyz',
+ [])
