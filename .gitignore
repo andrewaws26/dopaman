@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+build/
+dist/
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# Tools & caches
+.mypy_cache/
+.pytest_cache/
+.coverage
+.cache/
+
+# OS / Editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Runtime data
+*.log
+# Example: stop tracking game saves/high scores in the repo
+high_score.txt
+.saves/
